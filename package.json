@@ -1,6 +1,6 @@
 { "name" : "http-digest"
 , "description" : "Enables your web server to use HTTP Digest authentication"
-, "version" : "v0.1.0"
+, "version" : "v0.1.0cj"
 , "author" : "Emil Loer <emil@koffietijd.net>"
 , "contributors" :
   [
